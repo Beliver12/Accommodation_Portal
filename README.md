@@ -1,11 +1,11 @@
 # Accommodation_Portal
 
-## :package: Installation 
+## :package: Installation
 
 Clone the repository:
 
 ```bash
-git clone 
+git clone
 git@github.com:Beliver12/Accommodation_Portal.git
 ```
 
@@ -34,7 +34,7 @@ Start the development server:
 ```bash
 npm run dev
 ```
-                                         
+
 The application will be available at:
 
 ```text
