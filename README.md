@@ -1,15 +1,42 @@
 # Accommodation_Portal
 
-# How to run this project locally:
-  
-  1.Setting up Front-end :
-    # Please make sure that you are using the latest LTS version of Node, 
-    otherwise errors may occur.
+## :package: Installation 
 
-    # Open up the terminal and the folder containing your projects. 
-    Then enter the following command : ```js 
-                                              npm create vite@latest fe -- --template react```
+Clone the repository:
 
-    # You may be asked if you want to install the create-vite package, 
-    in which case you should accept by typing y then hitting Enter. If it asks you any questions about using experimental features, 
-    you can answer no to them. Finally, answer yes to Install with npm and start now?.                                           
+```bash
+git clone 
+git@github.com:Beliver12/Accommodation_Portal.git
+```
+
+Move into the project folder:
+
+```bash
+cd Accommodation_Portal
+```
+
+Move into the fe/ folder:
+
+```bash
+cd fe
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+## :arrow_forward: Running the project
+
+Start the development server:
+
+```bash
+npm run dev
+```
+                                         
+The application will be available at:
+
+```text
+http://localhost:5173
+```
