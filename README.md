@@ -1,5 +1,22 @@
 # Accommodation_Portal
 
+## :book: About
+
+Accommodation portal is a web application for presenting apartments,
+displaying owner information, and providing contact details. An admin panel with authentication will be added later.
+
+## :rocket: Features
+
+- Responsive homepage
+- Responsive apartment images
+- Google Maps directions
+
+## :tools: Tech Stack
+
+- React
+- Vite
+- CSS
+
 ## :package: Installation
 
 Clone the repository:
