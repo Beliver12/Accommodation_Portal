@@ -12,6 +12,12 @@ body {
 
 h1 {
   margin: 0;
+  font-size: 3vw;
+}
+
+h3{
+  margin: 0;
+  font-size: 1vw;
 }
 
 .header,
@@ -34,8 +40,22 @@ h1 {
 }
 
 .wrapper > div {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  object-fit: contain;
   border: 1px solid black;
+}
+
+@media (max-width: 800px) {
+  .wrapper {
+    height: 60%;
+    width: 90%;
+    
+  }
+}
+
+@media (max-width: 760px) {
+  .wrapper {
+    height: 40%;
+    width: 90%;
+    
+  }
 }
