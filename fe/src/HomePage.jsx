@@ -1,9 +1,9 @@
 import { useState } from "react";
 
 import "./HomePage.css";
-import Header from "./Header";
-import Body from "./Body";
-import Footer from "./Footer";
+import Header from "./mainPage/Header";
+import Body from "./mainPage/Body";
+import Footer from "./mainPage/Footer"
 
 function HomePage() {
   return (

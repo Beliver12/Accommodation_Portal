@@ -1,4 +1,4 @@
-import houseImage from "../public/Screenshot from 2026-07-24 12-41-02.png";
+import houseImage from "/Screenshot from 2026-07-24 12-41-02.png";
 
 function Body() {
   return (
